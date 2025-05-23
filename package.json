@@ -345,7 +345,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Danscot/senku-xmd.git"
+    "url": "https://github.com/cabrin21/Killua-xmd.git"
   },
   "keywords": [
     "killua-xmd"
@@ -353,7 +353,7 @@
   "author": "Cabrino Killua",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Danscot/senku-xmd/issues"
+    "url": "https://github.com/cabrin21/Killua-xmd/issues"
   },
-  "homepage": "https://github.com/Danscot/senku-xmd#readme"
+  "homepage": "https://github.com/cabrin21/Killua-xmd#readme"
 }
